@@ -5,7 +5,6 @@ A fully object-oriented Educational Management System (EMS) built in Java for Ed
 This project simulates a real-world development cycle, progressing through multiple phases to implement student, teacher, course, class, grade, and reporting modules.
 
 ---
-
 ## 🏗️ Application Architecture
 
 The system architecture for this project follows a multi-layered object-oriented structure, designed for modularity, maintainability, and scalability:
@@ -25,3 +24,19 @@ Grade Management
 Reporting Tools
 
 ---
+## 📖 Project Overview
+
+This project involves:
+ 
+**1. Object-Oriented Architecture:** Designing a fully modular Educational Management System using classes, interfaces, and inheritance.
+
+**2. Entity Management Modules:** Implementing operations for creating, updating, listing, and organizing students, teachers, courses, classes, enrollments, and grades.
+
+**3. System Logic & Workflows Developing business logic for:**
+Registering and managing students and teachers
+Creating courses and associating them with instructors
+Enrolling students
+Tracking grades and academic performance
+Generating structured academic reports
+
+**4. Interactive Console Application:**Building a user-friendly text-based navigation system to operate the EMS and simulate real-world administrative workflows.
