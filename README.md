@@ -36,3 +36,8 @@ This project involves:
 Registering and managing students and teachers, creating courses and associating them with instructors, enrolling students, tracking grades and academic performance and generating structured academic reports
 
 **4. Interactive Console Application:**Building a user-friendly text-based navigation system to operate the EMS and simulate real-world administrative workflows.
+---
+
+## 🛠️Tools:
+
+- **[IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/):** user friendly IDEA for Java developers.
