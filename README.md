@@ -3,7 +3,7 @@ A fully object-oriented Educational Management System (EMS) built in Java for Ed
 
 ---
 
-🚀 Project Overview
+🚀 **Project Overview**
 
 The EduConnect Academic Orchestrator aims to provide a modular, scalable, and maintainable system for academic administration.
 Key components include:
