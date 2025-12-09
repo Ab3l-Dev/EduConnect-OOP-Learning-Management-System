@@ -6,12 +6,13 @@ A fully object-oriented Educational Management System (EMS) built in Java for Ed
 The EduConnect Academic Orchestrator aims to provide a modular, scalable, and maintainable system for academic administration.
 Key components include:
 
-Student Management
-Teacher Management
-Course Registration
-Class & Enrollment Handling
-Grades & Performance Tracking
-Academic Reports Generation
+- Student Management
+- Teacher Management
+- Course Registration
+- Class & Enrollment Handling
+- Grades & Performance Tracking
+- Academic Reports Generation
+
 
 Each development phase introduces new features, applying best practices in OOP, encapsulation, inheritance, interfaces, and clean code design.
 
