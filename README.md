@@ -33,10 +33,6 @@ This project involves:
 **2. Entity Management Modules:** Implementing operations for creating, updating, listing, and organizing students, teachers, courses, classes, enrollments, and grades.
 
 **3. System Logic & Workflows Developing business logic for:**
-Registering and managing students and teachers
-Creating courses and associating them with instructors
-Enrolling students
-Tracking grades and academic performance
-Generating structured academic reports
+Registering and managing students and teachers, creating courses and associating them with instructors, enrolling students, tracking grades and academic performance and generating structured academic reports
 
 **4. Interactive Console Application:**Building a user-friendly text-based navigation system to operate the EMS and simulate real-world administrative workflows.
