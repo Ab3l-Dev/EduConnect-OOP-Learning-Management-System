@@ -15,11 +15,3 @@ Academic Reports Generation
 
 Each development phase introduces new features, applying best practices in OOP, encapsulation, inheritance, interfaces, and clean code design.
 
-/src
- └── main
-      └── java
-           ├── models        # Entities: Student, Teacher, Course, etc.
-           ├── services      # Business logic
-           ├── repositories  # Data handling (in-memory or file-based)
-           └── ui            # CLI or GUI (depending on project phase)
-
