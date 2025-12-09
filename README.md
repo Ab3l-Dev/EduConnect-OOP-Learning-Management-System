@@ -24,4 +24,4 @@ Course and Class Handling
 Grade Management
 Reporting Tools
 
-Each layer communicates cleanly with the next, offering a clear separation of concerns and organized workflow throughout the system.
+---
