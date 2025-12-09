@@ -1,6 +1,8 @@
 # EduConnect-OOP-Learning-Management-System
 A fully object-oriented Educational Management System (EMS) built in Java for EduConnect. This project simulates a real-world development cycle, progressing through multiple phases to implement student, teacher, course, class, grade, and reporting modules.
 
+---
+
 🚀 Project Overview
 
 The EduConnect Academic Orchestrator aims to provide a modular, scalable, and maintainable system for academic administration.
